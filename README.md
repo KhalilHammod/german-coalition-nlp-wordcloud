@@ -18,8 +18,6 @@ Coalition agreements outline a new government's priorities. This project explore
 german-coalition-nlp-wordcloud/
 ├── notebooks/
 │   └── Coalition_Agreement_WordCloud_Annotated.ipynb
-├── output/
-│   └── sample_wordcloud.png
 └── README.md
 ```
 
